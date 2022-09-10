@@ -18,14 +18,14 @@
 // console.log(items.firstElementChild) -- seleciona o elemento
 
 // console.log(items.firstElementChild)
-// items.firstElementChild.innerText = 'pega na minha'
+// items.firstElementChild.innerText = 'teste'
 
 // Last Child
 // console.log(items.lastChild)
 // console.log(items.lastElementChild)-- seleciona o elemento
 
 // console.log(items.lastElementChild)
-// items.lastElementChild.innerText = 'pega na minha'
+// items.lastElementChild.innerText = 'teste'
 
 // .nextElementSibling -- pega o próximo elemnto
 // .previousElementSibling  -- pega o elemnto anterior
@@ -37,7 +37,7 @@
 // newDiv.setAttribute('onclick', 'div') -- qlqr Atributo
 
 /* let newDiv = document.createElement('div')
-let newDivTxt = document.createTextNode(' pega na minha ')
+let newDivTxt = document.createTextNode(' teste ')
 
 newDiv.appendChild(newDivTxt)
 
